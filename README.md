@@ -7,25 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/dsf" target="blank"><img src="https://img.shields.io/twitter/follow/dsf?logo=twitter&style=for-the-badge" alt="dsf" /></a> </p>
 
-- 🔭 I’m currently working on [sadasd](asd)
-
-- 🌱 I’m currently learning **dsfsd**
-
-- 👯 I’m looking to collaborate on [sadasd](sadsad)
-
-- 🤝 I’m looking for help with [dsfdsf](dsfd)
-
-- 👨‍💻 All of my projects are available at [dsfsd](dsfsd)
-
-- 📝 I regularly write articles on [dsf](dsf)
-
-- 💬 Ask me about **dfsf**
-
-- 📫 How to reach me **dsfsdf**
-
-- 📄 Know about my experiences [dsf](dsf)
-
-- ⚡ Fun fact **sdfsdf**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
